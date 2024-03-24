@@ -1,0 +1,5 @@
+Consignes :
+
+1. Changer la couleur du texte de tous les paragraphes
+2. Changer la couleur de fond et ajouter une marges intérieure aux éléments de classe maclasse
+3. Ajouter une bordure en trait continu, une marge intérieure et une marge extérieure à l'élément d'identifiant monid

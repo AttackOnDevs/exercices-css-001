@@ -1,0 +1,9 @@
+Consignes
+
+1. Le corps du document doit être écrit en helvetica.
+2. Les titres de niveau 1 doivent être centrés et écrits en rouge.
+3. Tous les titres de niveau 2 doivent soulignés.
+4. Les titres de niveau 2 dans les sections doivent être verts.
+5. Les titres 2 de niveau dans les articles doivent être bleus.
+6. Les paragraphes suivant directement un titre de niveeau 2 doivent être en rouge italique.
+7. Les paragraphes suivant un titre de niveau 1 doivent être en violet.

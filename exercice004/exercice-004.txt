@@ -1,0 +1,5 @@
+Consignes :
+
+1. Mettre une bordure de 1px noire et une marge interne de 15px sur chaque case du tableau.
+2. Colorier le fond des lignes impaires du tableau.
+3. Colorier le texte de la dernière ligne du tableau.
